@@ -1,5 +1,5 @@
 /**
- * @author Ben Sherman, bms113
+ * @author Ben Sherman
  * Case Western Reserve University
  * EECS 233 - Data Structures
  * This class is used to solve N puzzles using BFS and DFS
